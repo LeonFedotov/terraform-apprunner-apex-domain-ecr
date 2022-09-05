@@ -1,4 +1,4 @@
 provider "aws" {
-  alias = "cloudfront-certificate"
+  alias  = "cloudfront-certificate"
   region = "us-east-1"
 }
